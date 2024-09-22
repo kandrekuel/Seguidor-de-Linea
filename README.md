@@ -27,4 +27,4 @@ Imprimir el diseño en una hoja especial para transferir a la placa PCB.
 Realizar el proceso de revelado y grabado para obtener la PCB.
 Soldar los componentes según el esquema y realizar pruebas finales.
 Video del Proyecto
-Para una explicación visual detallada del proyecto y su funcionamiento, visita el siguiente enlace a nuestro video en YouTube: Enlace al Video.
+Para una explicación visual detallada del proyecto y su funcionamiento, visita el siguiente enlace a nuestro video en YouTube: https://youtu.be/zDvyThgqeHM?si=ObKqbiRO6cjFT1B_
